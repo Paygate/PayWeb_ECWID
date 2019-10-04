@@ -1,10 +1,10 @@
 # PayWeb_ECWID
-## DPO PayGate ECWID method v1.1.2
+## PayGate ECWID method v1.1.2
 
-This is the DPO PayGate PayWeb3 method for ECWID. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
+This is the PayGate PayWeb3 method for ECWID. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## Installation
-[![How To Setup DPO | PayGate PayWeb for Ecwid](https://www.appinlet.com/wp-content/uploads/2018/09/Ecwid-Integration.jpg)](https://www.youtube.com/watch?v=8CXplQZz7O8 "How To Setup DPO | PayGate PayWeb for Ecwid")
+[![How To Setup PayGate PayWeb for Ecwid](https://www.appinlet.com/wp-content/uploads/2018/09/Ecwid-Integration.jpg)](https://www.youtube.com/watch?v=8CXplQZz7O8 "How To Setup PayGate PayWeb for Ecwid")
 
 Please navigate to the [releases page](https://github.com/PayGate/PayWeb_ECWID/releases), download the latest release (v1.1.2). You will them be able to follow the integration guide PDF.
 
