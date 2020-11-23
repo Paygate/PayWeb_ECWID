@@ -6,7 +6,7 @@ This is the PayGate PayWeb3 method for ECWID. Please feel free to contact the Pa
 ## Installation
 [![How To Setup PayGate PayWeb for Ecwid](https://www.appinlet.com/wp-content/uploads/2018/09/Ecwid-Integration.jpg)](https://www.youtube.com/watch?v=8CXplQZz7O8 "How To Setup PayGate PayWeb for Ecwid")
 
-Please navigate to the [releases page](https://github.com/PayGate/PayWeb_ECWID/releases), download the latest release (v1.1.2). You will them be able to follow the integration guide PDF.
+Please navigate to the [releases page](https://github.com/PayGate/PayWeb_ECWID/releases), download the latest release (v1.1.2). You will then be able to follow the integration guide PDF.
 
 ## About PayWeb
 
