@@ -1,7 +1,7 @@
 # PayWeb_ECWID
 ## PayGate ECWID method
 
-This is the PayGate PayWeb3 method for ECWID. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
+This is the PayGate PayWeb3 method for ECWID. Please feel free to contact the PayGate support team at supportsa@dpogroup.com should you require any assistance.
 
 ## Installation
 [![How To Setup PayGate PayWeb for Ecwid](https://appinlet.com/wp-content/uploads/2021/02/How-To-Setup-PayGate-PayWeb-for-Ecwid-method-scaled.jpg)](https://www.youtube.com/watch?v=cnkPCi4VUq4 "How To Setup PayGate PayWeb for Ecwid")
