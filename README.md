@@ -1,13 +1,22 @@
-# PayWeb_ECWID
-## PayGate ECWID method
+## PayWeb_ECWID
 
-This is the PayGate PayWeb3 method for ECWID. Please feel free to contact the PayGate support team at supportsa@dpogroup.com should you require any assistance.
+# Paygate for Ecwid
+
+This is the Paygate plugin for WooCommerce. Please feel free to contact the Payfast support team at
+support@payfast.io should you require any assistance.
 
 ## Installation
-[![How To Setup PayGate PayWeb for Ecwid](https://appinlet.com/wp-content/uploads/2021/02/How-To-Setup-PayGate-PayWeb-for-Ecwid-method-scaled.jpg)](https://www.youtube.com/watch?v=cnkPCi4VUq4 "How To Setup PayGate PayWeb for Ecwid")
 
-Please navigate to the [releases page](https://github.com/PayGate/PayWeb_ECWID/releases), download the latest release document. You will then be able to follow the integration guide PDF.
+1. **Install the App**
+    - Log in to your Ecwid Control Panel.
+    - Navigate to **Payment > Choose Payment Method**.
+    - Search for **PayGate: Accept Payments** and click **Add Payment Method**.
+    - The plugin will automatically redirect you to **Payment > PayGate** in the Ecwid Payment settings.
 
-## About PayWeb
+2. **Configure the Plugin**
+    - Configure the app by entering your Paygate credentials and preferences.
+    - Click the **Back** button in the top left corner to save your settings.
 
-[PayWeb](https://www.paygate.co.za/paygate-products/payweb/) is an easy and secure way to accept payments online. The Customer makes payments using [PayGate’s](https://www.paygate.co.za/) secure hosted payment page. PayWeb is mobile-friendly making it compatible across all mobile devices. By selecting PayWeb, the Merchant gets immediate access to an array of Payment Methods, making it easier to get paid.
+## Collaboration
+
+Please submit pull requests with any tweaks, features or fixes you would like to share.
